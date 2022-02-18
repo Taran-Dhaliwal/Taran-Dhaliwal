@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Taranjot Dhaliwal
 
 - 🌱 I’m final year student of The University of Winnipeg persuing Bechlor of Science in Computer Science.  
-- 🔭 I’m currently working on creating the website for department of Applied Computer Science of The University of Winnipeg.
+- 🔭 I’m currently working on re-creating the website for department of Applied Computer Science of The University of Winnipeg.
 - 
 
 <!--
