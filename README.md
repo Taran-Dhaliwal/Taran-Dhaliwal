@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Taranjot Dhaliwal
 
+- 🌱 I’m final year student of The University of Winnipeg persuing Bechlor of Science in Computer Science.  
 - 🔭 I’m currently working on creating the website for department of Applied Computer Science of The University of Winnipeg.
+- 
 
 <!--
 **Taran-47/Taran-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
