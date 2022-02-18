@@ -2,7 +2,7 @@
 
 - 🌱 I’m final year student of The University of Winnipeg persuing Bechlor of Science in Computer Science.  
 - 🔭 I’m currently working on re-creating the website for department of Applied Computer Science of The University of Winnipeg.
-- 
+
 ### Skills
 - #### Expertise: JavaScript, TypeScript, Java, GitHub, MySql, PHP, Node.Js
 - #### FrontEnd: HTML, Css, SASS, JavaScript, TypeScript
