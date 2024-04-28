@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img  width="400" alt="Taran's github stats" src="https://github-readme-stats.vercel.app/api?username=Taran-Dhaliwal&show_icons=true&theme=merko">
-
 <img  width="400" alt="Taran's languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taran-Dhaliwal&langs_count=10&theme=tokyonight&layout=compact" >
