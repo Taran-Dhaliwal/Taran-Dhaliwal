@@ -1,14 +1,15 @@
 ### Hi there 👋, I am Taranjot Dhaliwal
 
-- 🌱 I have graduated from University of Winnipeg with Bechlor of Science in Computer Science.  
-- 🔭 I’m currently working on re-creating the website for department of Applied Computer Science of The University of Winnipeg.
+- 🍎 I work at Johnston Group - Insurance Company as a .NET Developer. 
+- 🌱 I graduated from the University of Winnipeg with a Bachelor of Science in Computer Science.  
+- 🔭 I lead the project of re-creating the official website for the Department of Applied Computer Science of The University of Winnipeg.
 
 ### Skills
-- #### Expertise: JavaScript, TypeScript, Java, GitHub, MySql, PHP, Node.Js
-- #### FrontEnd: HTML, Css, SASS, JavaScript, TypeScript
-- #### BackEnd: PHP, Node.Js, Express.Js, Wordpress
-- #### DataBase: MySql, PostgreSQL, mongoDB
-- #### Collaboration: GitHub, Git, Trello, MS Teams, Slack
+- #### Expertise: JavaScript, TypeScript, Angular, Java, C#, Node.Js, .NET, GitHub, MySql
+- #### FrontEnd: HTML, CSS, SASS, JavaScript, TypeScript, Angular, React, React Native
+- #### BackEnd: C#, .NET, PHP, Node.Js, Express.Js, WordPress
+- #### DataBase: MySql, PostgreSQL, MongoDB
+- #### Collaboration: GitHub, Git, GitLab Trello, MS Teams, Slack
 <!--
 **Taran-47/Taran-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
