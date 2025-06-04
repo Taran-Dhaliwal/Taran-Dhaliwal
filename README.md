@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Taranjot Dhaliwal
 
-- 🍎 I work at Johnston Group - Insurance Company as a .NET Developer. 
+- 🍎 I work at Johnston Group - Insurance Company as an Application Developer 2. 
 - 🌱 I graduated from the University of Winnipeg with a Bachelor of Science in Computer Science.  
-- 🔭 I lead the project of re-creating the official website for the Department of Applied Computer Science of The University of Winnipeg.
+- 🔭 I lead the project of re-creating the official website for the Department of Applied Computer Science of the University of Winnipeg.
 
 ### Skills
 - #### Expertise: JavaScript, TypeScript, Angular, Java, C#, Node.Js, .NET, GitHub, MySql
